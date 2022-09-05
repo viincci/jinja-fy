@@ -1,0 +1,30 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+
+    {% block meta %}
+    
+    {% endblock meta %}
+
+
+    <!-- =======================================================
+        * Template Name: Django-fy- v0.0.1
+        * Template URL: https://bootstrapmade.com/photofolio-bootstrap-photography-website-template/
+        * Author: mr Mehgoss
+        * License: https://bootstrapmade.com/license/
+        ======================================================== -->
+</head>
+
+<body>
+
+  {% block content %}
+      
+  {% endblock content %}
+  
+</body>
+
+</html>
+

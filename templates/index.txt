@@ -1,0 +1,14 @@
+[# extends {0[ext_base]} #]
+
+[# load static #]
+
+[# block meta #]
+    {0[meta]}
+[# endblock meta #]
+
+[# block content #]
+      {0[body]}
+[# endblock content #]
+
+
+

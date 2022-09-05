@@ -1,0 +1,5 @@
+
+requests
+collections
+bs4
+tqdm
